@@ -66,7 +66,7 @@ I am particularly interested in building AI-powered applications that combine re
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
 
 ### Backend & Databases
