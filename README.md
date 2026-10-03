@@ -275,8 +275,8 @@ The project also contains a dedicated **Data Visualization** component for worki
 # GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abhishek-Deshmukh9&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
+  
+<img src="https://github-profile-trophy-three-drab.vercel.app/?username=Abhishek-Deshmukh9&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
 
 </div>
 
