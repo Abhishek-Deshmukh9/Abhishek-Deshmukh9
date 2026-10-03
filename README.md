@@ -1,36 +1,38 @@
 <div align="center">
 
-<a href="https://capsule-render.vercel.app/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:1e1b4b&height=180&section=header&text=ABHISHEK&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20Software%20Engineering%20%7C%20AI%2FML&descAlignY=60&descSize=17" width="100%" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:312e81&height=220&section=header&text=ABHISHEK&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%26%20FULL%20STACK&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Engineering+Undergraduate;Software+Engineering+%7C+AI%2FML+%7C+Backend+Development;Building+Practical+Systems+with+Clean+Engineering;Learning%2C+Building%2C+Improving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Engineering+Student;Software+Engineering+Enthusiast;AI%2FML+%26+RAG+Developer;Backend+%26+Full+Stack+Developer;Building+Practical+%26+Scalable+Systems" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.E.%20CSE-Ramaiah%20Institute%20of%20Technology-6d28d9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CGPA-8.70%2F10-4c1d95?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-312e81?style=for-the-badge" />
+<img src="https://img.shields.io/badge/B.E.-Computer%20Science%20%26%20Engineering-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/CGPA-8.7%2F10-4C1D95?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ramaiah%20Institute%20of%20Technology-Bengaluru-312E81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/India-Bengaluru-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
 <a href="https://github.com/Abhishek-Deshmukh9">
-  <img src="https://img.shields.io/badge/GitHub-6d28d9?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://in.linkedin.com/in/abhishek-deshmukh-676b92336">
-  <img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:abhishekdeshmukh935@gmail.com">
-  <img src="https://img.shields.io/badge/Email-312e81?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Abhishek-Deshmukh9">
+<img src="https://img.shields.io/badge/GitHub-Abhishek-4338CA?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Abhishek-Deshmukh9&label=PROFILE%20VIEWS&color=6d28d9&style=flat-square" />
-<img src="https://img.shields.io/github/followers/Abhishek-Deshmukh9?label=FOLLOWERS&style=flat-square&color=4c1d95" />
-<img src="https://img.shields.io/github/stars/Abhishek-Deshmukh9?label=STARS&style=flat-square&color=312e81" />
+<img src="https://komarev.com/ghpvc/?username=Abhishek-Deshmukh9&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Abhishek-Deshmukh9?style=for-the-badge&color=4C1D95&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/Abhishek-Deshmukh9?style=for-the-badge&color=312E81&label=STARS"/>
 
 </div>
 
@@ -38,20 +40,23 @@
 
 # About
 
-I am **Abhishek**, a Computer Science & Engineering undergraduate at **Ramaiah Institute of Technology, Bengaluru**, with a strong interest in software engineering, backend development, AI/ML systems, and practical product development.
+I am **Abhishek**, a Computer Science & Engineering student at **Ramaiah Institute of Technology, Bengaluru**, focused on building strong foundations in software engineering and developing practical, production-oriented applications.
 
-I enjoy understanding how systems work internally and turning ideas into functional software. My current technical focus includes **C++, Python, Java, SQL, FastAPI, Retrieval-Augmented Generation (RAG), vector databases, semantic search, embeddings, and software engineering fundamentals**.
+My interests span **backend engineering, AI/ML, RAG systems, databases, data analysis, and full-stack product development**. I enjoy understanding how systems work internally and turning ideas into functional software rather than relying purely on abstractions.
 
-I am particularly interested in building AI-powered applications that combine reliable backend systems with useful user-facing experiences. Alongside development, I continuously work on **Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks, and Object-Oriented Programming**.
+Currently, I am strengthening my expertise in:
+
+- Software Engineering & Backend Development
+- Data Structures & Algorithms
+- AI/ML and Retrieval-Augmented Generation
+- Database Systems & SQL
+- Full-Stack Application Development
+- System Design & Scalable Architecture
+- Developer Tools, Git & Cloud Deployment
 
 ### Open To
 
-- Software Engineering Internships
-- Backend Development Opportunities
-- AI/ML Engineering Projects
-- Open Source Contributions
-- Hackathons & Technical Collaborations
-- Projects involving AI, backend systems and developer tooling
+`Software Engineering Internships` `Backend Development` `AI/ML Engineering` `Full-Stack Development` `Collaborative Projects` `Open Source`
 
 ---
 
@@ -60,35 +65,26 @@ I am particularly interested in building AI-powered applications that combine re
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,sql" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,sql&theme=dark"/>
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
+<img src="https://skillicons.dev/icons?i=html,css,flutter&theme=dark"/>
 </p>
 
 ### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=fastapi,mysql,sqlite&theme=dark"/>
 </p>
-
-**Backend:** FastAPI  
-**Databases:** MySQL, SQLite, ChromaDB  
-**AI Infrastructure:** RAG, Semantic Search, Embeddings, Vector Search
 
 ### Cloud, DevOps & Tooling
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel&theme=dark"/>
 </p>
-
-**Development:** VS Code  
-**Version Control:** Git, GitHub  
-**Containers:** Docker  
-**Data & Analytics:** Pandas, NumPy
 
 ---
 
@@ -96,126 +92,101 @@ I am particularly interested in building AI-powered applications that combine re
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Retrieval-Augmented Generation | Intermediate | RAG pipelines, document-grounded generation and retrieval workflows |
-| Semantic Search | Intermediate | Embeddings, similarity search and contextual retrieval |
-| Vector Databases | Intermediate | ChromaDB for persistent vector storage and retrieval |
-| Generative AI | Intermediate | Gemini API integration and AI-powered application development |
-| Embeddings | Intermediate | Sentence Transformers and semantic representations |
-| NLP Applications | Intermediate | Document processing, contextual learning and knowledge retrieval |
-| Data Analysis | Intermediate | Pandas, NumPy and exploratory data processing |
-| AI Application Engineering | Intermediate | Integrating AI models into practical backend applications |
+| Retrieval-Augmented Generation | Advanced | Document ingestion, chunking, embeddings, semantic retrieval and context-grounded generation |
+| Generative AI | Intermediate | Gemini API integration for educational and productivity applications |
+| Vector Databases | Intermediate | ChromaDB persistent vector storage and semantic similarity search |
+| Embeddings | Intermediate | Sentence Transformers and embedding-based document retrieval |
+| NLP Applications | Intermediate | Contextual Q&A, summarization, MCQ generation and learning-content generation |
+| Data Processing | Intermediate | Python, Pandas and NumPy for cleaning, transformation and analysis |
 
 ---
 
 # Featured Projects
 
 <details>
-<summary><b>01 · PrepPilot AI — RAG-Based Study Companion</b></summary>
+<summary><strong>PrepPilot AI — RAG-Based Study Companion</strong></summary>
 
 <br/>
 
-**PrepPilot AI** is an AI-powered study companion designed to transform uploaded learning material into interactive study experiences.
-
-The system uses a Retrieval-Augmented Generation architecture to ground AI responses in user-provided documents.
+**PrepPilot AI** is a RAG-based study companion designed to transform uploaded academic documents into interactive learning resources.
 
 | Category | Details |
 |---|---|
-| **Stack** | Python, FastAPI, RAG, ChromaDB, Sentence Transformers, Gemini API, SQLite |
-| **Architecture** | Document Processing → Chunking → Embeddings → Vector Retrieval → LLM Generation |
-| **Retrieval** | ChromaDB + semantic embeddings |
-| **AI** | Gemini API + Sentence Transformers |
-| **Database** | SQLite |
-| **Core Features** | Context-grounded chat, summaries, MCQs, flashcards, mock interviews and revision material |
-| **Repository** | [PrepPilot](https://github.com/Abhishek-Deshmukh9/PrepPilot.git) |
+| **Stack** | FastAPI · Gemini API · ChromaDB · SQLite · Sentence Transformers |
+| **Scale** | Document-based AI learning workflow |
+| **Performance** | Semantic retrieval with persistent vector storage |
+| **Security** | Context-grounded generation and controlled document retrieval |
+| **Impact** | Converts static study material into interactive learning resources |
+| **Repository** | [GitHub Repository](https://github.com/Abhishek-Deshmukh9/PrepPilot) |
 
-### Engineering Focus
+### Engineering Scope
 
-- Designed a document ingestion and retrieval workflow.
-- Implemented semantic chunking and embedding-based retrieval.
-- Used ChromaDB for persistent vector storage.
-- Integrated Gemini for contextual generation.
-- Built backend APIs using FastAPI.
-- Worked on persistence, regeneration, document state and content rendering.
-- Designed the system around grounded responses from uploaded learning material.
+- Built document ingestion and processing workflows.
+- Implemented text chunking for retrieval.
+- Generated embeddings using Sentence Transformers.
+- Implemented semantic search using ChromaDB.
+- Integrated Gemini for context-grounded generation.
+- Added AI-generated summaries, MCQs, flashcards and revision material.
+- Developed backend services using FastAPI.
+- Used SQLite for application-level data management.
+- Implemented persistent vector storage for retrieved knowledge.
 
 </details>
-
----
 
 <details>
-<summary><b>02 · COSMOSDB — Database Management System</b></summary>
+<summary><strong>COSMOSDB — Exoplanet Database & Visualization</strong></summary>
 
 <br/>
 
-**COSMOSDB** is a database management system project developed to explore database concepts through a practical implementation.
-
-The project also contains a dedicated **Data Visualization** component for working with and presenting database-related information.
+**COSMOSDB** is a database and analytics project built around NASA exoplanet data, combining relational database engineering with data visualization.
 
 | Category | Details |
 |---|---|
-| **Stack** | SQL, Database Management Concepts, Data Visualization |
-| **Domain** | DBMS |
-| **Core Areas** | Database design, SQL and data management |
-| **Additional Component** | Data Visualization |
-| **Repository** | [COSMOSDB](https://github.com/Abhishek-Deshmukh9/COSMOSDB.git) |
+| **Stack** | MySQL · SQL · Python · Pandas · NumPy · Power BI |
+| **Scale** | Structured exoplanet dataset and analytical workflows |
+| **Performance** | Optimized relational queries and analytical exploration |
+| **Security** | Relational constraints, keys and normalized database design |
+| **Impact** | Enables exploration of exoplanet discovery and planetary characteristics |
+| **Repository** | [GitHub Repository](https://github.com/Abhishek-Deshmukh9/COSMOSDB) |
 
-### Engineering Focus
+### Engineering Scope
 
-- Applied relational database concepts in a practical project.
-- Worked with SQL-based data management.
-- Explored database organization and querying.
-- Developed a separate data visualization component.
-- Strengthened practical understanding of DBMS concepts.
+- Designed a relational database for NASA exoplanet data.
+- Applied normalization, keys and constraints.
+- Implemented joins and analytical SQL queries.
+- Cleaned and transformed data using Python, Pandas and NumPy.
+- Developed an interactive Power BI dashboard.
+- Created KPI cards, filters and analytical visualizations.
+- Explored discovery trends, planetary systems and host-star characteristics.
 
 </details>
-
----
 
 <details>
-<summary><b>03 · Finance Manager — Personal Finance Application</b></summary>
+<summary><strong>Finance Manager — Personal Finance Application</strong></summary>
 
 <br/>
 
-**Finance Manager** is a personal finance management application focused on tracking and presenting financial information through a structured application interface.
+A Flutter-based personal finance application for recording, tracking and visualizing income and expenses.
 
 | Category | Details |
 |---|---|
-| **Stack** | Flutter, Dart, Hive, fl_chart |
-| **Application Type** | Personal Finance Management |
-| **Storage** | Hive |
-| **Visualization** | fl_chart |
-| **Core Focus** | Expense tracking and financial visualization |
-| **Repository** | [madApp](https://github.com/Abhishek-Deshmukh9/madApp.git) |
+| **Stack** | Flutter · Dart · Provider · Hive · fl_chart |
+| **Scale** | Personal finance management application |
+| **Performance** | Local persistence and responsive data visualization |
+| **Security** | Local transaction storage |
+| **Impact** | Simplifies personal expense tracking and financial visualization |
+| **Repository** | [GitHub Repository](https://github.com/Abhishek-Deshmukh9/madApp) |
 
-### Engineering Focus
+### Engineering Scope
 
-- Built a mobile-oriented finance management application.
-- Implemented local data persistence using Hive.
-- Used Flutter and Dart for application development.
-- Added graphical visualization for financial information.
-- Focused on organizing financial data into an accessible interface.
+- Developed income and expense tracking workflows.
+- Implemented local transaction persistence using Hive.
+- Built interactive financial dashboards.
+- Added charts for spending-pattern visualization.
+- Used Provider for application state management.
+- Synchronized transaction data with UI state.
 
 </details>
-
----
-
-# Experience
-
-### Computer Science & Engineering Undergraduate  
-**Ramaiah Institute of Technology, Bengaluru**
-
-**Academic Experience**
-
-- Building a foundation across software engineering and computer science fundamentals.
-- Developing projects involving databases, backend development and AI-powered applications.
-- Practicing Data Structures & Algorithms using C++.
-- Working with Object-Oriented Programming, DBMS, Operating Systems and Computer Networks.
-- Participating in hackathons, technical projects and collaborative development.
-- Exploring AI/ML application engineering and retrieval-based systems.
-
-**Skills Developed**
-
-`C++` `Python` `Java` `SQL` `FastAPI` `DBMS` `DSA` `RAG` `Git` `GitHub`
 
 ---
 
@@ -223,20 +194,24 @@ The project also contains a dedicated **Data Visualization** component for worki
 
 ### Snowflake
 
-<img src="https://img.shields.io/badge/SnowPro%20Associate-May%202026%20%E2%80%93%20May%202028-6d28d9?style=for-the-badge&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/SnowPro%20Associate-Platform%20Certification-6D28D9?style=for-the-badge&logo=snowflake&logoColor=white"/>
 
-### Microsoft Azure
+**SnowPro Associate: Platform Certification — Snowflake**  
+May 2026
 
-<img src="https://img.shields.io/badge/Generative%20AI%20with%20Azure-Certification-4c1d95?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+### Microsoft
 
-### GitHub
+<img src="https://img.shields.io/badge/GitHub%20Copilot-Microsoft%20Learning-4C1D95?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/GitHub%20Copilot-Certification-312e81?style=for-the-badge&logo=github&logoColor=white" />
+**GitHub Copilot — Microsoft Learning**  
+April 2026
 
-### NPTEL
+### CloudThat
 
-<img src="https://img.shields.io/badge/NPTEL-Discrete%20Mathematics-6d28d9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NPTEL-DBMS-4c1d95?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative%20AI-Azure-312E81?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+**Generative AI with Azure — CloudThat Technologies Pvt. Ltd.**  
+April 2026
 
 ---
 
@@ -244,9 +219,9 @@ The project also contains a dedicated **Data Visualization** component for worki
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Deshmukh9&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Deshmukh9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Deshmukh9&hide_border=true&theme=tokyonight&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" height="180" />
+<img src="https://streak-stats.demolab.com?user=Abhishek-Deshmukh9&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6D28D9&currStreakLabel=8B5CF6" height="180"/>
 
 </div>
 
@@ -254,7 +229,7 @@ The project also contains a dedicated **Data Visualization** component for worki
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Deshmukh9&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Deshmukh9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180"/>
 
 </div>
 
@@ -264,7 +239,7 @@ The project also contains a dedicated **Data Visualization** component for worki
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abhishek-Deshmukh9&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Abhishek-Deshmukh9&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
@@ -274,9 +249,16 @@ The project also contains a dedicated **Data Visualization** component for worki
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Deshmukh9&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true&custom_title=Abhishek%27s%20GitHub%20Activity" width="95%" />
+<a href="https://github.com/Abhishek-Deshmukh9">
+
+<img src="https://github-readme-activity-graph-silk-seven.vercel.app/graph?username=Abhishek-Deshmukh9&bg_color=0D1117&color=8B5CF6&line=6D28D9&point=C4B5FD&area=true&hide_border=true" width="100%"/>
+
+</a>
 
 </div>
+
+> **Activity Graph deployment:** `github-readme-activity-graph-silk-seven.vercel.app`  
+> The graph uses the GitHub username `Abhishek-Deshmukh9`. The GitHub username remains unchanged even though the public display name is **Abhishek**.
 
 ---
 
@@ -284,7 +266,7 @@ The project also contains a dedicated **Data Visualization** component for worki
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Abhishek-Deshmukh9/Abhishek-Deshmukh9/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/Abhishek-Deshmukh9/Abhishek-Deshmukh9/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -293,32 +275,34 @@ The project also contains a dedicated **Data Visualization** component for worki
 # Current Focus
 
 ```yaml
+name: Abhishek
+
 learning:
   - Data Structures & Algorithms
-  - System Design Fundamentals
-  - Backend Engineering
-  - Database Systems
-  - AI/ML Engineering
+  - Software Engineering
+  - Backend Development
+  - AI/ML
+  - System Design
 
 building:
   - RAG-based AI applications
-  - Backend systems with FastAPI
-  - Practical software engineering projects
-  - Developer-focused tools
+  - Backend systems
+  - Data-driven applications
+  - Full-stack projects
 
 exploring:
-  - Retrieval-Augmented Generation
-  - Semantic Search
-  - Vector Databases
   - Generative AI
+  - Retrieval-Augmented Generation
+  - Vector Databases
   - Cloud & DevOps
+  - Scalable Software Architecture
 
 open_to:
   - Software Engineering Internships
-  - AI/ML Projects
   - Backend Development
-  - Open Source Contributions
-  - Technical Collaborations
+  - AI/ML Opportunities
+  - Full-Stack Projects
+  - Open Source Collaboration
 ```
 
 ---
