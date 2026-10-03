@@ -38,7 +38,7 @@
 
 # About
 
-I am **ABHISHEK**, a Computer Science & Engineering undergraduate at **Ramaiah Institute of Technology, Bengaluru**, with a strong interest in software engineering, backend development, AI/ML systems, and practical product development.
+I am **Abhishek**, a Computer Science & Engineering undergraduate at **Ramaiah Institute of Technology, Bengaluru**, with a strong interest in software engineering, backend development, AI/ML systems, and practical product development.
 
 I enjoy understanding how systems work internally and turning ideas into functional software. My current technical focus includes **C++, Python, Java, SQL, FastAPI, Retrieval-Augmented Generation (RAG), vector databases, semantic search, embeddings, and software engineering fundamentals**.
 
@@ -60,19 +60,19 @@ I am particularly interested in building AI-powered applications that combine re
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,sql" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,sql" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 ### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=fastapi,mysql,sqlite" />
 </p>
 
 **Backend:** FastAPI  
@@ -82,7 +82,7 @@ I am particularly interested in building AI-powered applications that combine re
 ### Cloud, DevOps & Tooling
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 </p>
 
 **Development:** VS Code  
@@ -219,19 +219,6 @@ The project also contains a dedicated **Data Visualization** component for worki
 
 ---
 
-# Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| 🎓 **Academic Performance** | CGPA: **8.70 / 10** |
-| ✈️ **NCC Air Wing** | NCC Air Wing Cadet |
-
-</div>
-
----
-
 # Certifications
 
 ### Snowflake
@@ -250,22 +237,6 @@ The project also contains a dedicated **Data Visualization** component for worki
 
 <img src="https://img.shields.io/badge/NPTEL-Discrete%20Mathematics-6d28d9?style=for-the-badge" />
 <img src="https://img.shields.io/badge/NPTEL-DBMS-4c1d95?style=for-the-badge" />
-
----
-
-# Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/Abhi_Deshmukh_09/">
-  <img src="https://img.shields.io/badge/LeetCode-Abhi__Deshmukh__09-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-</a>
-
-<a href="https://github.com/Abhishek-Deshmukh9">
-  <img src="https://img.shields.io/badge/GitHub-Abhishek--Deshmukh9-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
 
 ---
 
@@ -363,7 +334,7 @@ open_to:
 <br/><br/>
 
 <a href="https://in.linkedin.com/in/abhishek-deshmukh-676b92336">
-  <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Deshmukh-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Abhishek-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/Abhishek-Deshmukh9">
@@ -385,18 +356,3 @@ open_to:
 </a>
 
 </div>
-
-<!--
-**Abhishek-Deshmukh9/Abhishek-Deshmukh9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
