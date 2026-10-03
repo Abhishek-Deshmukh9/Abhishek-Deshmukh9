@@ -286,7 +286,7 @@ The project also contains a dedicated **Data Visualization** component for worki
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Deshmukh9&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph-silk-seven.vercel.app/graph?username=Abhishek-Deshmukh9&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="95%" />
 
 </div>
 
