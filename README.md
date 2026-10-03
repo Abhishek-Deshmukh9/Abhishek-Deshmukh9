@@ -11,7 +11,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/B.E.%20CSE-Ramaiah%20Institute%20of%20Technology-6d28d9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CGPA-8.70%2F10-4c1d95?style=for-the-badge" />
+<!-- <img src="https://img.shields.io/badge/CGPA-8.70%2F10-4c1d95?style=for-the-badge" /> -->
 <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-312e81?style=for-the-badge" />
 
 <br/><br/>
