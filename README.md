@@ -253,10 +253,10 @@ The project also contains a dedicated **Data Visualization** component for worki
 ---
 
 # GitHub Analytics
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Deshmukh9&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&custom_title=Abhishek%27s%20GitHub%20Stats" height="180" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Deshmukh9&hide_border=true&theme=tokyonight&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" height="180" />
 
 </div>
