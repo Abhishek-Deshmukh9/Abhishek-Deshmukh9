@@ -91,7 +91,7 @@ I am particularly interested in building AI-powered applications that combine re
 **Data & Analytics:** Pandas, NumPy
 
 ---
-
+<!--
 # AI / ML Expertise
 
 | Domain | Proficiency | Details |
@@ -196,7 +196,7 @@ The project also contains a dedicated **Data Visualization** component for worki
 - Focused on organizing financial data into an accessible interface.
 
 </details>
-
+-->
 ---
 
 # Experience
@@ -218,7 +218,7 @@ The project also contains a dedicated **Data Visualization** component for worki
 `C++` `Python` `Java` `SQL` `FastAPI` `DBMS` `DSA` `RAG` `Git` `GitHub`
 
 ---
-
+<!--
 # Certifications
 
 ### Snowflake
@@ -237,7 +237,7 @@ The project also contains a dedicated **Data Visualization** component for worki
 
 <img src="https://img.shields.io/badge/NPTEL-Discrete%20Mathematics-6d28d9?style=for-the-badge" />
 <img src="https://img.shields.io/badge/NPTEL-DBMS-4c1d95?style=for-the-badge" />
-
+-->
 ---
 
 # Coding Profiles
